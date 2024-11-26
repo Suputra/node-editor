@@ -1,4 +1,4 @@
-# Node Graph Editor
+# Node Editor
 
 A modern, interactive node graph editor built with React. This editor allows users to create, connect, and manipulate different shapes in a canvas environment.
 
